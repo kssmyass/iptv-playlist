@@ -9,3 +9,16 @@ http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/52172
 http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/52719
 #EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-logo="https://i.imgur.com/DeFgHiJ.png" group-title="SPORT",Canal+ Foot HD
 http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/56737
+#EXTINF:-1, tvg-id="DAZN.fr" tvg-logo="http://safiafamily.com/uploads/family/germany/DAZN-1--Channel.png" tvg-name="FR: DAZN HD"  group-title="FR| SPORTS",FR: DAZN HD
+http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/824681
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/france/RMC-Sport-1.png" tvg-name="Fr: RMC Sport Access"  group-title="FR| SPORTS",Fr: RMC Sport Access
+http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/923561
+
+#EXTINF:-1, tvg-id="DAZNLigue1.fr" tvg-logo="http://safiafamily.com/uploads/family/germany/DAZN-2--Channel.png" tvg-name="FR: DAZN 2 LEAUGE 1 HD"  group-title="FR| SPORTS",FR: DAZN 2 LEAUGE 1 HD
+http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/824683
+#EXTINF:-1, tvg-id="DAZNLigue1.fr" tvg-logo="http://safiafamily.com/uploads/family/france/DAZN3.png" tvg-name="FR: DAZN 3 LEAUGE 1 HD"  group-title="FR| SPORTS",FR: DAZN 3 LEAUGE 1 HD
+http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/824684
+
+#EXTINF:-1, tvg-id="canalplusfoot.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Foot-24-24TV-Channel-France.png" tvg-name="Fr: Foot+ 24/24 HD"  group-title="FR| SPORTS",Fr: Foot+ 24/24 HD
+http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70707
